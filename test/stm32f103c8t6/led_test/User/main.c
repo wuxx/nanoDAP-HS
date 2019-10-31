@@ -68,7 +68,7 @@ int main(void)
 
 		gpio_off();
 		delay_ms(10);
-		delay_ms(reserved[10]);
+		//delay_ms(reserved[10]);
 	}
 
 	return 0;
