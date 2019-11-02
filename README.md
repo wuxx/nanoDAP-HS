@@ -63,6 +63,10 @@ DAPLink 实现了一个bootloader并且提供了U盘功能，这使得固件升�
 3. 此时可以将nRST和GND断开。  
 4. 将新的固件拖动到MAINTAIN U盘中，即可自动完成固件升级。
 
+## OpenOCD使用
+请查阅[此处](https://github.com/wuxx/openocd-toolbox)，已经将常用的操作封装成脚本，只需双击脚本，便可完成目标芯片的读、写、擦除，由于目标芯片的平台众多，demo中目标为STM32F1系列的芯片，您可参考修改成支持您的平台。  
+
+
 # FAQ
 ### Q: 在win7系统下会提示无串口驱动，应该如何安装？  
 在本github仓库的driver/windows7_serial_driver/ (https://github.com/wuxx/nanoDAP-HS/tree/master/driver/windows7_serial_driver) 目录下有CMSIS-DAP.inf，请尝试安装此驱动，大部分情况下可以正常安装使用，若仍然无法安装，请尝试目录下的另一驱动windows7_serial_driver.rar，根据压缩包里的指导进行操作即可。   
