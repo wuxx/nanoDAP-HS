@@ -22,7 +22,7 @@ DAPLink-HS仿真器是缪斯实验室推出的高速DAP仿真器，使用USB 2.0
 ```
 ![screenshot](https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-270-0.1.jpg)
 ```
-<div align=center><img width="150" height="150" src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-270.jpg"/></div>
+<div align=center><img width="628" height="378" src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-270-0.5.jpg"/></div>
 # 产品特点
 - 软件开源，无版权风险。当前市面上的jlink/stlink均为盗版，使用上存在一些法律问题，部分jlink和IDE如MDK配合使用时，会提示盗版而无法正常使用，且部分jlink版本存在使用一段时间后丢固件的问题，一旦固件丢失，需要手动操作软件恢复固件，操作极其繁琐。同时 jlink售价亦较为昂贵。
 - 引出5V、3.3V电源，不需要外接额外的电源到您的单板上，使用上更方便。
