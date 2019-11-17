@@ -48,7 +48,7 @@ DAPLink-HS仿真器是缪斯实验室推出的高速DAP仿真器，使用USB 2.0
 
 ## 复位设置
 一般情况下，您或许希望烧写完芯片之后立即开始运行，我们的DAPLink经过软件定制，支持复位后立即开始运行，您需要在Debug 选项中进行配置，如图所示：  
-![reset_select](https://github.com/wuxx/nanoDAP-HS/blob/master/doc/reset_select.jpg)
+![reset_select](https://github.com/wuxx/nanoDAP-HS/blob/master/doc/reset_select.png)
 
 # DAPLink使用
 ## 拖拽烧录
