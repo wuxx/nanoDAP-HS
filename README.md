@@ -18,7 +18,7 @@
 	* [在Linux下能否使用dap仿真器进行调试？](#q-在linux下可以使用dap仿真器进行调试吗)
 
 # 产品介绍
-DAPLink-HS仿真器是缪斯实验室推出的高速DAP仿真器，使用USB 2.0 High Speed传输数据，基于开源DAPLink实现，支持U盘固件升级，拖拽烧录以及WebUSB烧录。相比当前市面上流行的jlink/st-link，烧录速度快，不丢固件，无版权风险，功能丰富，外观简洁精致，能较好的满足电子工程师进行日常的开发调试下载需求。 
+DAPLink-HS仿真器是缪斯实验室推出的高速DAP仿真器，使用USB 2.0 High Speed传输数据，基于开源DAPLink实现，支持U盘固件升级，拖拽烧录以及WebUSB烧录。相比当前市面上流行的jlink/st-link，烧录速度快，不丢固件，无版权风险，功能丰富，外观简洁精致，能较好的满足电子工程师进行日常的开发调试下载需求。   
 ![screenshot](https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-270-0.1.jpg)
 
 # 产品特点
