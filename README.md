@@ -65,6 +65,8 @@ DAPLink 实现了一个bootloader并且提供了U盘功能，这使得固件升�
 ## OpenOCD使用
 请查阅[此处](https://github.com/wuxx/openocd-toolbox)，已经将常用的操作封装成脚本，只需双击脚本，便可完成目标芯片的读、写、擦除，由于目标芯片的平台众多，demo中目标为STM32F1系列的芯片，您可参考修改成支持您的平台。  
 
+# 产品链接
+[nanoDAP-HS高速DAP](https://item.taobao.com/item.htm?spm=2013.1.w4004-21293878323.6.193e34a8mowUvw&id=605653531236)
 
 # FAQ
 ### Q: 在win7系统下会提示无串口驱动，应该如何安装？  
