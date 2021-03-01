@@ -12,8 +12,13 @@ DAPLink-HS User Manual
 * [Product Link](#product-link)
 	
 # Introduction
-DAPLink-HS is a cmsis-dap high-speed debugger made by MuseLab which support SWD/JTAG and a USB CDC serial port. feature with Atmel ATSAM3U2C with USB High-Speed, it has a good performance of program and debug.
-![screenshot](https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-270-0.2.jpg)  
+DAPLink-HS is a cmsis-dap high-speed debugger made by MuseLab which support SWD/JTAG and a USB CDC serial port. feature with Atmel ATSAM3U2C with USB High-Speed, it has a good performance of program and debug.  
+<div align=center>
+<img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-1.jpg" width = "700" alt="" align=center />
+<img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-2.jpg" width = "700" alt="" align=center />
+<img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-3.jpg" width = "700" alt="" align=center />
+</div>
+
 
 # Feature
 - SWD interface
@@ -40,7 +45,7 @@ Note: select the Reset and Run  for target auto reset after program done.
 
 ## Reset Setting
 Generally, you may need to start the mcu when program done, config the Reset type to `SYSRESETREQ` here and select `Reset and Run` in the Flash Download Page above.
-![reset_select](https://github.com/wuxx/nanoDAP-HS/blob/master/doc/reset_select.jpg)
+![reset_select](https://github.com/wuxx/nanoDAP-HS/blob/master/doc/reset_select.png)
 
 # DAPLink Usage
 ## Drag and Drop
