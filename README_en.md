@@ -12,11 +12,12 @@ DAPLink-HS User Manual
 * [Product Link](#product-link)
 	
 # Introduction
-DAPLink-HS is a cmsis-dap high-speed debugger made by MuseLab which support SWD/JTAG and a USB CDC serial port. feature with Atmel ATSAM3U2C with USB High-Speed, it has a good performance of program and debug.  
+DAPLink-HS is a cmsis-dap high-speed debugger made by MuseLab which support SWD/JTAG and a USB CDC serial port. feature with Atmel ATSAM3U2C with USB High-Speed, it has a good performance of program and debug. currently there are two version with same function (USB-A version & TYPE-C version)  
 <div align=center>
 <img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-1.jpg" width = "700" alt="" align=center />
 <img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-2.jpg" width = "700" alt="" align=center />
 <img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-3.jpg" width = "700" alt="" align=center />
+<img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-TYPE-C-1.jpg" width = "350" alt="" align=center />
 </div>
 
 

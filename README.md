@@ -25,7 +25,9 @@ DAPLink-HS仿真器是缪斯实验室推出的高速DAP仿真器，使用USB 2.0
 <img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-1.jpg" width = "700" alt="" align=center />
 <img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-2.jpg" width = "700" alt="" align=center />
 <img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-3.jpg" width = "700" alt="" align=center />
+<img src="https://github.com/wuxx/nanoDAP-HS/blob/master/doc/nanoDAP-HS-TYPE-C-1.jpg" width = "350" alt="" align=center />
 </div>
+
 
 
 # 产品特点
