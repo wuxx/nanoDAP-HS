@@ -63,4 +63,4 @@ DAPLink implement a bootloader with USB MSD, which made it very easy for the fir
 4. drag the new firmware into the `MAINTAINENCE`, wait for a few moment, then upgrade done, a new USB DISK `DAPLINK` will appear with replace of `MAINTAINENCE`  
 
 # Product Link
-you can buy the DAPLink-HS from our offcial aliexpress shop [Muse Lab Factory Store](https://muselab-tech.aliexpress.com)  
+you can buy the DAPLink-HS from our offcial aliexpress shop [Muse Lab Factory Store](https://miusecntech-muselab.aliexpress.com/)  or click [DAP-HS](https://www.aliexpress.com/item/1005001407779138.html?spm=a2g0o.store_pc_groupList.8148356.10.10649b43L2kzkd&pdp_npi=2%40dis%21USD%21US%20%2416.80%21US%20%2416.80%21%21%21%21%21%402132a25b16594870862517910e3a68%2112000015965144514%21sh&gatewayAdapt=4itemAdapt) and [Mini DAP-HS](https://www.aliexpress.com/item/1005002603229431.html?spm=a2g0o.store_pc_groupList.8148356.6.10649b43M9DGj6&pdp_npi=2%40dis%21USD%21US%20%2416.80%21US%20%2416.80%21%21%21%21%21%402132a25b16594870862517910e3a68%2112000021352187038%21sh&gatewayAdapt=4itemAdapt)
